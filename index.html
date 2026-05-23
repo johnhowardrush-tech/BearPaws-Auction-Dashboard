@@ -315,9 +315,9 @@ function renderFavorites(){
         const lot = lotMap[lotNum];
         if(!lot) return;
 
-  const favEntry = favs.find(f => String(f.lotId) === String(lotNum));
-  const userMax = favEntry ? favEntry.enteredMaxBid : null;
-
+  const userMax = favMap[String(lotNum)] ? favMap[String(lotNum)].enteredMaxBid : null;
+  const favMap = {};
+  favs.forEach(f => { favMap[String(f.lotId)] = f; });
         const actual = lot.photo_est_high || lot.estimated_value;
         html += '<tr>';
         html += '<td style="font-weight:700;color:#58a6ff">#'+lot.lot+'</td>';

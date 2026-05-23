@@ -314,7 +314,6 @@ function renderFavorites(){
       lots.forEach(lotNum => {
         const lot = lotMap[lotNum];
         if(!lot) return;
-        const favEntry = favs.find(f => String(f.lotId) === String(lotNum));
 
   const favEntry = favs.find(f => String(f.lotId) === String(lotNum));
   const userMax = favEntry ? favEntry.enteredMaxBid : null;

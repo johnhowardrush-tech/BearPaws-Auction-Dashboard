@@ -243,9 +243,9 @@ function favDocId(sectionId, lotId) {
 }
 
 async function addFavorite(sectionId, lotId) {
-  const id = favDocId(sectionId, lotId);
+  const id = `160623_${sectionId}_${lotId}`;
   await setDoc(doc(db, "favorites", id), {
-    auctionId: AUCTION_ID,
+    auctionId: "160623",
     sectionId: sectionId,
     lotId: String(lotId),
     enteredMaxBid: null,
@@ -253,17 +253,17 @@ async function addFavorite(sectionId, lotId) {
   }, { merge: true });
 }
 
-async function removeFavorite(sectionId, lotId) {
-  const id = favDocId(sectionId, lotId);
-  await deleteDoc(doc(db, "favorites", id));
-}
-
 async function updateUserMaxBid(sectionId, lotId, value) {
-  const id = favDocId(sectionId, lotId);
+  const id = `160623_${sectionId}_${lotId}`;
   await setDoc(doc(db, "favorites", id), {
     enteredMaxBid: value === "" ? null : Number(value),
     updatedAt: serverTimestamp()
   }, { merge: true });
+}
+
+async function removeFavorite(sectionId, lotId) {
+  const id = `160623_${sectionId}_${lotId}`;
+  await deleteDoc(doc(db, "favorites", id));
 }
 
 function startRealtimeFavorites() {
@@ -294,10 +294,16 @@ function renderAll(){
 function renderFavorites(){
   const container = document.getElementById('favoriteSections');
   let html = '';
+
   USER_NAMES.forEach((name, idx) => {
     const favs = sharedFavorites.filter(f => Number(f.sectionId) === idx);
     const lots = favs.map(f => String(f.lotId));
     const color = USER_COLORS[idx];
+
+    // Build lookup ONCE for this section
+    const favMap = {};
+    favs.forEach(f => { favMap[String(f.lotId)] = f; });
+
     html += '<div class="user-section">';
     html += '<div class="user-section-header" style="border-left:4px solid '+color+'">';
     html += '<h3 style="color:'+color+'">'+name+' <span style="color:#8b949e;font-size:12px;font-weight:400">('+lots.length+' items)</span></h3>';
@@ -311,14 +317,15 @@ function renderFavorites(){
     } else {
       html += '<div class="table-wrapper" style="border-top:none;">';
       html += '<table><thead><tr><th>Lot #</th><th>Item</th><th>Current Bid</th><th>Actual Price Est.</th><th>Suggested Max</th><th>Your Max</th><th></th></tr></thead><tbody>';
+
       lots.forEach(lotNum => {
         const lot = lotMap[lotNum];
         if(!lot) return;
 
-  const userMax = favMap[String(lotNum)] ? favMap[String(lotNum)].enteredMaxBid : null;
-  const favMap = {};
-  favs.forEach(f => { favMap[String(f.lotId)] = f; });
+        const entry = favMap[String(lotNum)];
+        const userMax = entry ? entry.enteredMaxBid : null;
         const actual = lot.photo_est_high || lot.estimated_value;
+
         html += '<tr>';
         html += '<td style="font-weight:700;color:#58a6ff">#'+lot.lot+'</td>';
         html += '<td style="max-width:320px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">'+lot.name+'</td>';
@@ -329,13 +336,45 @@ function renderFavorites(){
         html += '<td><button class="remove-btn" onclick="removeFavorite('+idx+',\''+lotNum+'\')">✕</button></td>';
         html += '</tr>';
       });
+
       html += '</tbody></table></div>';
     }
+
     html += '</div>';
   });
+
   container.innerHTML = html;
 }
 
+// Live favorites from Firestore
+let sharedFavorites = [];
+
+function startRealtimeFavorites() {
+  // Listen to all favorites for this auction (open rules allow everyone)
+  const qFav = query(
+    collection(db, "favorites"),
+    where("auctionId", "==", "160623")
+  );
+
+  onSnapshot(
+    qFav,
+    (snap) => {
+      sharedFavorites = snap.docs.map(d => d.data());
+      // Re-render everything now that we have the shared state
+      renderAll();
+    },
+    (err) => {
+      console.error("Firestore onSnapshot error:", err);
+      const n = document.getElementById("setupNotice");
+      n.style.display = "block";
+      n.innerHTML =
+        "<strong>Firebase error:</strong> Could not load shared favorites. " +
+        "Check Firestore Rules and your firebaseConfig.";
+    }
+  );
+}
+``
+  
 function renderConflicts(){
   const conflicts = {};
 
@@ -534,7 +573,6 @@ window.updateUserMaxBid = updateUserMaxBid;
 document.addEventListener('keydown', e => { if(e.key==='Escape') closeSearch(); });
 
 loadData();
-startRealtimeFavorites();
 setInterval(loadData, 5*60*1000);
 </script>
 </body>

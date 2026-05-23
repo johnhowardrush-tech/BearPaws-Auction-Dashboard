@@ -266,22 +266,39 @@ async function removeFavorite(sectionId, lotId) {
   await deleteDoc(doc(db, "favorites", id));
 }
 
+// Live favorites from Firestore
+let sharedFavorites = [];
+let favoritesUnsub = null; // used to prevent duplicate listeners
+
 function startRealtimeFavorites() {
+  // If this is called again, stop the old listener first
+  if (typeof favoritesUnsub === "function") {
+    favoritesUnsub();
+    favoritesUnsub = null;
+  }
+
   const qFav = query(
     collection(db, "favorites"),
     where("auctionId", "==", AUCTION_ID)
   );
 
-  onSnapshot(qFav, (snap) => {
-    sharedFavorites = snap.docs.map(d => d.data());
-    renderAll();
-  }, (err) => {
-    console.error("Firestore onSnapshot error:", err);
-    const n = document.getElementById('setupNotice');
-    n.style.display = 'block';
-    n.innerHTML = "<strong>Firebase error:</strong> Could not read/write shared favorites. " +
-      "Check Firestore Rules and Firebase config in index.html.";
-  });
+  favoritesUnsub = onSnapshot(
+    qFav,
+    (snap) => {
+      sharedFavorites = snap.docs.map(d => d.data());
+      renderAll();
+    },
+    (err) => {
+      console.error("Firestore onSnapshot error:", err);
+      const n = document.getElementById("setupNotice");
+      if (n) {
+        n.style.display = "block";
+        n.innerHTML =
+          "<strong>Firebase error:</strong> Could not load shared favorites. " +
+          "Check Firestore Rules and your firebaseConfig.";
+      }
+    }
+  );
 }
 
 function renderAll(){
@@ -346,7 +363,10 @@ function renderFavorites(){
   container.innerHTML = html;
 }
   
-function renderConflicts(){
+// Live favorites from Firestore
+let sharedFavorites = [];
+
+  function renderConflicts(){
   const conflicts = {};
 
   sharedFavorites.forEach(f => {
@@ -544,6 +564,7 @@ window.updateUserMaxBid = updateUserMaxBid;
 document.addEventListener('keydown', e => { if(e.key==='Escape') closeSearch(); });
 
 loadData();
+startRealtimeFavorites();
 setInterval(loadData, 5*60*1000);
 </script>
 </body>

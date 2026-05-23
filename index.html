@@ -345,35 +345,6 @@ function renderFavorites(){
 
   container.innerHTML = html;
 }
-
-// Live favorites from Firestore
-let sharedFavorites = [];
-
-function startRealtimeFavorites() {
-  // Listen to all favorites for this auction (open rules allow everyone)
-  const qFav = query(
-    collection(db, "favorites"),
-    where("auctionId", "==", "160623")
-  );
-
-  onSnapshot(
-    qFav,
-    (snap) => {
-      sharedFavorites = snap.docs.map(d => d.data());
-      // Re-render everything now that we have the shared state
-      renderAll();
-    },
-    (err) => {
-      console.error("Firestore onSnapshot error:", err);
-      const n = document.getElementById("setupNotice");
-      n.style.display = "block";
-      n.innerHTML =
-        "<strong>Firebase error:</strong> Could not load shared favorites. " +
-        "Check Firestore Rules and your firebaseConfig.";
-    }
-  );
-}
-``
   
 function renderConflicts(){
   const conflicts = {};

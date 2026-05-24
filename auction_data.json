@@ -1,7 +1,7 @@
 {
   "auction_id": "160623",
   "auction_name": "Memorial Day Estate Auction 2026",
-  "last_updated": "2026-05-24 07:44:50",
+  "last_updated": "2026-05-24 07:56:13",
   "total_lots": 632,
   "lots": [
     {
@@ -75,6 +75,18 @@
       "notes": "Vintage Henredon dining table; condition/pickup affects value.",
       "strategy": null,
       "suggested_max_bid": 263.0
+    },
+    {
+      "lot": "9249",
+      "name": "Japanese Cherry Blossom Four Panel Folding Screen Wall Art",
+      "current_bid": 40.0,
+      "estimated_value": 600.0,
+      "personal_max_bid": 24.0,
+      "resell_max_bid": 15.0,
+      "confidence": "Low",
+      "notes": "Large four-panel Japanese-style cherry blossom folding screen/wall art, approx. 38”x80”. Strong decorative appeal with gold-tone ground, black wave design, blossoms, bird, and included hanging hardware/cleats. Similar signed/hand-painted byōbu-style screens can ask $1k+ at retail, but actual resale is much more condition/authenticity/shipping dependent. Treat as decorative vintage wall art unless signature, hand-painted surface, and gold leaf are verified. Estimated resale value $400–$800; safe resale max hammer $250–$300.",
+      "strategy": null,
+      "suggested_max_bid": 15.0
     },
     {
       "lot": "6335",
@@ -195,6 +207,18 @@
       "notes": "CONFIRMED Icom IC-761 HF transceiver (Made in Japan) + HAL Communications 2550 RTTY interface + Delta coax switch + Morse code key + mic + cables. Serious enthusiast equipment. Massive knowledge gap advantage. TOP 3–4 LOT.",
       "strategy": "🔴 TOP — Go Hard",
       "suggested_max_bid": 160.0
+    },
+    {
+      "lot": "6282",
+      "name": "Antique Illuminated Manuscript Leaf - Book of Hours",
+      "current_bid": 8.0,
+      "estimated_value": 400.0,
+      "personal_max_bid": 24.0,
+      "resell_max_bid": 15.0,
+      "confidence": "High",
+      "notes": "Book/paper collectible estimate; edition and condition are critical.",
+      "strategy": null,
+      "suggested_max_bid": 15.0
     },
     {
       "lot": "50082",
@@ -327,6 +351,18 @@
       "notes": null,
       "strategy": "Good comps on ebay all $300+, depends on if it works or not. https://reverb.com/item/94638419-mackie-digital-audio-hard-disk-recorder-mdr-24-96-2001-black",
       "suggested_max_bid": 39.0
+    },
+    {
+      "lot": "6092",
+      "name": "Harley-Davidson Accessories - Hitch Cover/Derby Covers/Horn Cover/Medallions + Watch",
+      "current_bid": 261.0,
+      "estimated_value": 300.0,
+      "personal_max_bid": 47.0,
+      "resell_max_bid": 31.0,
+      "confidence": "Medium",
+      "notes": "Motorcycle/brand collectible; niche buyer pool but strong brand recognition.",
+      "strategy": null,
+      "suggested_max_bid": 31.0
     },
     {
       "lot": "50073",
@@ -579,6 +615,18 @@
       "notes": "Sabre Paris French flatware. Multiple knives, forks, spoons, spreaders. All stamped SABRE PARIS. Mixed/non-matching patterns reduce value vs full set. Brand helps. Mid-tier lot.",
       "strategy": "🟡 Mid-Tier — Safe Flip",
       "suggested_max_bid": 80.0
+    },
+    {
+      "lot": "6528",
+      "name": "Heath Ceramics Pottery Studio Coffee Mugs #708",
+      "current_bid": 67.0,
+      "estimated_value": 200.0,
+      "personal_max_bid": 47.0,
+      "resell_max_bid": 31.0,
+      "confidence": "Medium",
+      "notes": "Recognizable housewares/collectible brand; value depends on condition and completeness.",
+      "strategy": null,
+      "suggested_max_bid": 31.0
     },
     {
       "lot": "6572",
@@ -2885,18 +2933,6 @@
       "suggested_max_bid": 31.0
     },
     {
-      "lot": "6092",
-      "name": "Harley-Davidson Accessories - Hitch Cover/Derby Covers/Horn Cover/Medallions + Watch",
-      "current_bid": 261.0,
-      "estimated_value": 300.0,
-      "personal_max_bid": 47.0,
-      "resell_max_bid": 31.0,
-      "confidence": "Medium",
-      "notes": "Motorcycle/brand collectible; niche buyer pool but strong brand recognition.",
-      "strategy": null,
-      "suggested_max_bid": 31.0
-    },
-    {
       "lot": "6094",
       "name": "Harley Davidson Accessories - Kickstand Pads/Patches/Plaques/Flags/Map + More",
       "current_bid": 5.0,
@@ -3381,18 +3417,6 @@
       "name": "Lladro Porcelain Dog Beagle Puppy Figurine",
       "current_bid": 12.0,
       "estimated_value": 70.0,
-      "personal_max_bid": 47.0,
-      "resell_max_bid": 31.0,
-      "confidence": "Medium",
-      "notes": "Recognizable housewares/collectible brand; value depends on condition and completeness.",
-      "strategy": null,
-      "suggested_max_bid": 31.0
-    },
-    {
-      "lot": "6528",
-      "name": "Heath Ceramics Pottery Studio Coffee Mugs #708",
-      "current_bid": 67.0,
-      "estimated_value": 200.0,
       "personal_max_bid": 47.0,
       "resell_max_bid": 31.0,
       "confidence": "Medium",
@@ -6053,6 +6077,18 @@
       "suggested_max_bid": 20.0
     },
     {
+      "lot": "6322",
+      "name": "Vintage Sparklets Soda Seltzer Bottle",
+      "current_bid": 8.0,
+      "estimated_value": 45.0,
+      "personal_max_bid": 24.0,
+      "resell_max_bid": 15.0,
+      "confidence": "Low",
+      "notes": "Heuristic estimate from description/title only; photo/condition review recommended.",
+      "strategy": null,
+      "suggested_max_bid": 15.0
+    },
+    {
       "lot": "6379",
       "name": "Behringer UltraPatch Pro 48-Point Patchbay PX3000 Pro Audio",
       "current_bid": 4.0,
@@ -6605,18 +6641,6 @@
       "suggested_max_bid": 15.0
     },
     {
-      "lot": "6282",
-      "name": "Antique Illuminated Manuscript Leaf - Book of Hours",
-      "current_bid": 8.0,
-      "estimated_value": 400.0,
-      "personal_max_bid": 24.0,
-      "resell_max_bid": 15.0,
-      "confidence": "High",
-      "notes": "Book/paper collectible estimate; edition and condition are critical.",
-      "strategy": null,
-      "suggested_max_bid": 15.0
-    },
-    {
       "lot": "6286",
       "name": "Vintage Books - Monet + Matisse + Japanese Myth + More",
       "current_bid": 3.0,
@@ -6657,18 +6681,6 @@
       "name": "Vintage Albums Records LPs - Beatles Springsteen - Elton John - Willie Nelson",
       "current_bid": 40.0,
       "estimated_value": 35.0,
-      "personal_max_bid": 24.0,
-      "resell_max_bid": 15.0,
-      "confidence": "Low",
-      "notes": "Heuristic estimate from description/title only; photo/condition review recommended.",
-      "strategy": null,
-      "suggested_max_bid": 15.0
-    },
-    {
-      "lot": "6322",
-      "name": "Vintage Sparklets Soda Seltzer Bottle",
-      "current_bid": 8.0,
-      "estimated_value": 45.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
       "confidence": "Low",
@@ -7232,18 +7244,6 @@
       "lot": "6621",
       "name": "Forged Stainless Flatware",
       "current_bid": 30.0,
-      "estimated_value": 35.0,
-      "personal_max_bid": 24.0,
-      "resell_max_bid": 15.0,
-      "confidence": "Low",
-      "notes": "Heuristic estimate from description/title only; photo/condition review recommended.",
-      "strategy": null,
-      "suggested_max_bid": 15.0
-    },
-    {
-      "lot": "9249",
-      "name": "Japanese Cherry Blossom Four Panel Folding Screen Wall Art",
-      "current_bid": 40.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,

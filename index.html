@@ -230,22 +230,14 @@ try {
 }
 
 // ===============================
-// Shared favorites (Firestore)
-// Anyone can add/edit/remove items in any section.
-// ===============================
-const AUCTION_ID = "160623";
-
-// Live favorites from Firestore: [{ auctionId, sectionId, lotId, enteredMaxBid, updatedAt }]
-let sharedFavorites = [];
-
-function favDocId(sectionId, lotId) {
+// Shared favoritesId, lotId) {// Shared favorites (Firestore)
   return `${AUCTION_ID}_${sectionId}_${lotId}`;
 }
 
 async function addFavorite(sectionId, lotId) {
-  const id = `160623_${sectionId}_${lotId}`;
+  const id = favDocId(sectionId, lotId);
   await setDoc(doc(db, "favorites", id), {
-    auctionId: "160623",
+    auctionId: AUCTION_ID,
     sectionId: sectionId,
     lotId: String(lotId),
     enteredMaxBid: null,
@@ -254,7 +246,7 @@ async function addFavorite(sectionId, lotId) {
 }
 
 async function updateUserMaxBid(sectionId, lotId, value) {
-  const id = `160623_${sectionId}_${lotId}`;
+  const id = favDocId(sectionId, lotId);
   await setDoc(doc(db, "favorites", id), {
     enteredMaxBid: value === "" ? null : Number(value),
     updatedAt: serverTimestamp()
@@ -262,16 +254,12 @@ async function updateUserMaxBid(sectionId, lotId, value) {
 }
 
 async function removeFavorite(sectionId, lotId) {
-  const id = `160623_${sectionId}_${lotId}`;
+  const id = favDocId(sectionId, lotId);
   await deleteDoc(doc(db, "favorites", id));
 }
 
-// Live favorites from Firestore
-let sharedFavorites = [];
-let favoritesUnsub = null; // used to prevent duplicate listeners
-
 function startRealtimeFavorites() {
-  // If this is called again, stop the old listener first
+  // If called again, stop the old listener first
   if (typeof favoritesUnsub === "function") {
     favoritesUnsub();
     favoritesUnsub = null;
@@ -300,6 +288,13 @@ function startRealtimeFavorites() {
     }
   );
 }
+// Anyone can add/edit/remove items in any section.
+// ===============================
+const AUCTION_ID = "160623";
+
+// Live favorites from Firestore
+let sharedFavorites = [];
+let favoritesUnsub = null; // used to prevent duplicate listeners
 
 function renderAll(){
   renderFavorites();

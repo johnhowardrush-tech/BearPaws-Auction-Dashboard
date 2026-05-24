@@ -1,7 +1,7 @@
 {
   "auction_id": "160623",
   "auction_name": "Memorial Day Estate Auction 2026",
-  "last_updated": "2026-05-23 23:07:47",
+  "last_updated": "2026-05-24 07:44:50",
   "total_lots": 632,
   "lots": [
     {
@@ -691,7 +691,7 @@
     {
       "lot": "6096",
       "name": "Harley Davidson Pins/Patches/Belt Buckles + More",
-      "current_bid": 8.0,
+      "current_bid": 9.0,
       "estimated_value": 175.0,
       "personal_max_bid": 115.0,
       "resell_max_bid": 75.0,
@@ -2047,7 +2047,7 @@
     {
       "lot": "5252",
       "name": "Wall Hanging Magnetic Garage Tool Storage Panels",
-      "current_bid": 14.0,
+      "current_bid": 16.0,
       "estimated_value": 75.0,
       "personal_max_bid": 51.0,
       "resell_max_bid": 33.0,
@@ -2395,7 +2395,7 @@
     {
       "lot": "50012",
       "name": "Fellowes Powershred 99Ci Cross Cut Paper Shredder",
-      "current_bid": 2.0,
+      "current_bid": 12.0,
       "estimated_value": 75.0,
       "personal_max_bid": 51.0,
       "resell_max_bid": 33.0,
@@ -2539,7 +2539,7 @@
     {
       "lot": "50055",
       "name": "Painted Accent Side Table / Night Stand",
-      "current_bid": 2.0,
+      "current_bid": 3.0,
       "estimated_value": 75.0,
       "personal_max_bid": 51.0,
       "resell_max_bid": 33.0,
@@ -2563,7 +2563,7 @@
     {
       "lot": "50060",
       "name": "Pair Schulte Wire Basket Storage Racks",
-      "current_bid": 9.0,
+      "current_bid": 10.0,
       "estimated_value": 75.0,
       "personal_max_bid": 51.0,
       "resell_max_bid": 33.0,
@@ -3355,7 +3355,7 @@
     {
       "lot": "6477",
       "name": "Vintage Pyrex Bowls + Fiesta Ware Platters",
-      "current_bid": 10.0,
+      "current_bid": 12.0,
       "estimated_value": 70.0,
       "personal_max_bid": 47.0,
       "resell_max_bid": 31.0,
@@ -3487,7 +3487,7 @@
     {
       "lot": "6625",
       "name": "Handmade Polish Pottery + Le Creuset 9 in Baking Dish",
-      "current_bid": 19.0,
+      "current_bid": 31.0,
       "estimated_value": 70.0,
       "personal_max_bid": 47.0,
       "resell_max_bid": 31.0,
@@ -4495,7 +4495,7 @@
     {
       "lot": "6422",
       "name": "Vintage Hand Painted Japanese Kokeshi Dolls + Dolls of Many Lands Note Cards",
-      "current_bid": 4.0,
+      "current_bid": 14.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4519,7 +4519,7 @@
     {
       "lot": "6459",
       "name": "Vintage Cabbage Patch Kid Dolls+ Clothing/Accessories / Toys",
-      "current_bid": 6.0,
+      "current_bid": 14.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4531,7 +4531,7 @@
     {
       "lot": "6460",
       "name": "Vintage Cabbage Patch Kid Dolls + Clothing/Accessories / Toys",
-      "current_bid": 6.0,
+      "current_bid": 16.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4579,7 +4579,7 @@
     {
       "lot": "6466",
       "name": "Vintage Fisher Price Toys + Little People Camper + Etc",
-      "current_bid": 4.0,
+      "current_bid": 5.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4591,7 +4591,7 @@
     {
       "lot": "6468",
       "name": "Vintage Horsman Mary Poppins Doll + Clothing/Accessories + Dishes Toys",
-      "current_bid": 1.0,
+      "current_bid": 2.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4675,7 +4675,7 @@
     {
       "lot": "6492",
       "name": "Antique Japanese Hand-painted Toy Girl & Cat Tea Set",
-      "current_bid": 6.0,
+      "current_bid": 12.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4819,7 +4819,7 @@
     {
       "lot": "6420",
       "name": "Vintage 1940s Art Deco Count-Rite Bakelite Poker Chip Caddy",
-      "current_bid": 6.0,
+      "current_bid": 7.0,
       "estimated_value": 55.0,
       "personal_max_bid": 40.0,
       "resell_max_bid": 24.0,
@@ -5143,7 +5143,7 @@
     {
       "lot": "6201",
       "name": "Brass Frog + Turtle Note Holder / Paperweight Clips",
-      "current_bid": 9.0,
+      "current_bid": 10.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5347,7 +5347,7 @@
     {
       "lot": "6285",
       "name": "Studio Pottery Vases + Bowl",
-      "current_bid": 6.0,
+      "current_bid": 7.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5383,7 +5383,7 @@
     {
       "lot": "6331",
       "name": "Vintage Handbags Purses",
-      "current_bid": 7.0,
+      "current_bid": 9.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5575,7 +5575,7 @@
     {
       "lot": "6479",
       "name": "Don Drumm Metal Christmas Tree Sculpture",
-      "current_bid": 16.0,
+      "current_bid": 21.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5599,7 +5599,7 @@
     {
       "lot": "6488",
       "name": "Art Glass Paperweights + Bowl",
-      "current_bid": 6.0,
+      "current_bid": 7.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5623,7 +5623,7 @@
     {
       "lot": "6491",
       "name": "Sara Ayers Art Pottery Owl",
-      "current_bid": 6.0,
+      "current_bid": 7.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5635,7 +5635,7 @@
     {
       "lot": "6494",
       "name": "Art Glass Vases + Lidded Apple Jar",
-      "current_bid": 5.0,
+      "current_bid": 6.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5827,7 +5827,7 @@
     {
       "lot": "6578",
       "name": "Studio Pottery Serving Plate + Asian Bonsai Planter",
-      "current_bid": 4.0,
+      "current_bid": 5.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5923,7 +5923,7 @@
     {
       "lot": "6626",
       "name": "Hand Blown Glass Vase + Orbs",
-      "current_bid": 1.0,
+      "current_bid": 2.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -6487,7 +6487,7 @@
     {
       "lot": "6216",
       "name": "Vintage Carved Stone and Resin Tree in Cloisonne Pot",
-      "current_bid": 22.0,
+      "current_bid": 24.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -6655,7 +6655,7 @@
     {
       "lot": "6319",
       "name": "Vintage Albums Records LPs - Beatles Springsteen - Elton John - Willie Nelson",
-      "current_bid": 35.0,
+      "current_bid": 40.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -6907,7 +6907,7 @@
     {
       "lot": "6485",
       "name": "Vintage Sewing Notions + Wiss / Keen Edge Scissors + Buttons Etc",
-      "current_bid": 6.0,
+      "current_bid": 7.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -6955,7 +6955,7 @@
     {
       "lot": "6519",
       "name": "Over and Back Yellow Ware Pitcher + Crock Canister",
-      "current_bid": 1.0,
+      "current_bid": 2.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -6979,7 +6979,7 @@
     {
       "lot": "6523",
       "name": "Hand Crafted Polished Horn Trays",
-      "current_bid": 35.0,
+      "current_bid": 50.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -7051,7 +7051,7 @@
     {
       "lot": "6542",
       "name": "NEW Twin Size Sheets - Charisma by Fieldcrest/Yves Delorme Paris",
-      "current_bid": 4.0,
+      "current_bid": 5.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -7255,7 +7255,7 @@
     {
       "lot": "50004",
       "name": "Wicker Patio Plant Stand",
-      "current_bid": 22.0,
+      "current_bid": 24.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -7435,7 +7435,7 @@
     {
       "lot": "6486",
       "name": "Large Murano Glassware Art Glass Vase",
-      "current_bid": 4.0,
+      "current_bid": 5.0,
       "estimated_value": 30.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 30.0,
@@ -7471,7 +7471,7 @@
     {
       "lot": "6148",
       "name": "Costume Jewelry",
-      "current_bid": 20.0,
+      "current_bid": 22.0,
       "estimated_value": 30.0,
       "personal_max_bid": 20.0,
       "resell_max_bid": 13.0,

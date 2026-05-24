@@ -1,7 +1,7 @@
 {
   "auction_id": "160623",
   "auction_name": "Memorial Day Estate Auction 2026",
-  "last_updated": "2026-05-23 23:03:53",
+  "last_updated": "2026-05-23 23:07:47",
   "total_lots": 632,
   "lots": [
     {
@@ -6643,7 +6643,7 @@
     {
       "lot": "6316",
       "name": "Vintage Floral Painted Flatware Storage Box",
-      "current_bid": 5.0,
+      "current_bid": 8.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,

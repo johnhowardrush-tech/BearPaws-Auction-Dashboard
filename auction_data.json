@@ -1,7 +1,7 @@
 {
   "auction_id": "160623",
   "auction_name": "Memorial Day Estate Auction 2026",
-  "last_updated": "2026-05-24 07:56:13",
+  "last_updated": "2026-05-24 08:15:00",
   "total_lots": 632,
   "lots": [
     {
@@ -4112,11 +4112,11 @@
       "lot": "6264",
       "name": "Vintage WS Choy Signed - Bird - Sumi Art Painting",
       "current_bid": 7.0,
-      "estimated_value": 60.0,
+      "estimated_value": 300.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
       "confidence": "Medium",
-      "notes": "Decorative/home lot estimate; inspect condition and maker marks.",
+      "notes": "Signed W.S. Choy sumi ink bird painting, dated 1971 with chop mark. Original watercolor/ink on paper, framed approx. 16x18.5”. Includes appraisal documentation ($250 in 2017). Mid-century Asian minimalist subject fits current Japandi decor trend. Artist not widely known, so value driven by aesthetic + authenticity rather than name recognition. Resale range $200–350 depending on presentation and buyer.",
       "strategy": null,
       "suggested_max_bid": 26.0
     },
@@ -6044,7 +6044,7 @@
       "lot": "50066",
       "name": "Metal Folk Art Bird Garden Sculpture",
       "current_bid": 40.0,
-      "estimated_value": 45.0,
+      "estimated_value": 250.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
       "confidence": "Medium",

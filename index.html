@@ -83,6 +83,7 @@ tr:hover td{background:#1c2128}
 <div class="nav">
   <button class="active" onclick="showSection('favorites', this)">&#11088; Favorites</button>
   <button onclick="showSection('conflicts', this)">&#9888;&#65039; Conflicts</button>
+  <button onclick="showSection('mustbuys', this)">🔥 Must Buys</button>
   <button onclick="showSection('allpicks', this)">&#128202; All Picks</button>
   <button onclick="showSection('alllots', this)">&#128218; All Lots</button>
 </div>
@@ -109,6 +110,14 @@ tr:hover td{background:#1c2128}
     <p style="color:#8b949e;margin-bottom:16px;">These items appear in more than one person's favorites. Coordinate to avoid bidding against each other!</p>
     <div id="conflictTable"></div>
   </div>
+  
+  <div class="section" id="sec-mustbuys">
+  <h2 class="section-title"><span class="emoji">🔥</span>Must Buys (Bid &lt; 20% of Estimated Value)</h2>
+  <p style="color:#8b949e;margin-bottom:16px;">
+    These lots are currently priced at less than <strong>20%</strong> of their estimated value.
+  </p>
+  <div id="mustBuysTable"></div>
+</div>
 
   <div class="section" id="sec-allpicks">
     <h2 class="section-title"><span class="emoji">&#128202;</span>Everyone's Selections — Sorted by Current Bid (Highest First)</h2>
@@ -301,10 +310,66 @@ function startRealtimeFavorites() {
 function renderAll(){
   renderFavorites();
   renderConflicts();
+  renderMustBuys();
   renderAllPicks();
   renderAllLots();
 }
+  
+function renderMustBuys() {
+  const container = document.getElementById("mustBuysTable");
+  if (!auctionData) {
+    container.innerHTML = '<div class="empty-state"><div class="emoji">⏳</div><div>Loading data...</div></div>';
+    return;
+  }
 
+  // Build list: current bid < 20% of actual estimate
+  const must = auctionData.lots
+    .map(l => {
+      const actual = l.photo_est_high || l.estimated_value;
+      const bid = l.current_bid;
+      if (!actual || !bid) return null;
+      const ratio = bid / actual;
+      return { lot: l, actual, bid, ratio };
+    })
+    .filter(x => x && x.ratio < 0.20)
+    .sort((a, b) => a.ratio - b.ratio); // lowest % first
+
+  if (must.length === 0) {
+    container.innerHTML = '<div class="empty-state"><div class="emoji">✅</div><div>No “Must Buys” at the moment.</div></div>';
+    return;
+  }
+
+  let html = '<div class="table-wrapper"><table><thead><tr>' +
+    '<th>Lot #</th>' +
+    '<th>Item</th>' +
+    '<th>Current Bid</th>' +
+    '<th>Actual Est.</th>' +
+    '<th>% of Value</th>' +
+    '<th>Suggested Max</th>' +
+    '<th>Tier</th>' +
+    '</tr></thead><tbody>';
+
+  must.forEach(x => {
+    const l = x.lot;
+    const pct = Math.round(x.ratio * 100);
+    const actual = x.actual;
+    const tc = tierClass(l.watchlist_tier);
+
+    html += '<tr>';
+    html += '<td style="font-weight:700;color:#58a6ff">#' + l.lot + '</td>';
+    html += '<td style="max-width:420px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">' + l.name + '</td>';
+    html += '<td class="money">' + fmt(l.current_bid) + '</td>';
+    html += '<td>' + fmt(actual) + '</td>';
+    html += '<td style="font-weight:700;color:#f59e0b">' + pct + '%</td>';
+    html += '<td>' + fmt(l.suggested_max_bid) + '</td>';
+    html += '<td class="' + tc + '">' + (l.watchlist_tier || '—') + '</td>';
+    html += '</tr>';
+  });
+
+  html += '</tbody></table></div>';
+  container.innerHTML = html;
+}
+  
 function renderFavorites(){
   const container = document.getElementById('favoriteSections');
   let html = '';
@@ -536,6 +601,7 @@ function showSection(name, btn){
   document.querySelectorAll('.nav button').forEach(b => b.classList.remove('active'));
   if(btn) btn.classList.add('active');
   if(name==='conflicts') renderConflicts();
+  if(name==='mustbuys') renderMustBuys();
   if(name==='allpicks') renderAllPicks();
   if(name==='alllots') renderAllLots();
 }
@@ -554,6 +620,7 @@ window.filterAllLots = filterAllLots;
 window.addFavorite = addFavorite;
 window.removeFavorite = removeFavorite;
 window.updateUserMaxBid = updateUserMaxBid;
+window.renderMustBuys = renderMustBuys;
 
 document.addEventListener('keydown', e => { if(e.key==='Escape') closeSearch(); });
 

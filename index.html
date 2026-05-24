@@ -227,10 +227,19 @@ try {
       "<br><br><strong>Quick start:</strong> open Command Prompt in this folder and run:<br>" +
       "<code>py -m http.server 8000</code><br>then visit <code>http://localhost:8000/auction_dashboard_fixed.html</code>.";
   }
+  
 }
-
 // ===============================
-// Shared favoritesId, lotId) {// Shared favorites (Firestore)
+// Shared favorites (Firestore)
+// Anyone can add/edit/remove items in any section.
+// ===============================
+const AUCTION_ID = "160623";
+
+// Live favorites from Firestore
+let sharedFavorites = [];
+let favoritesUnsub = null;
+
+function favDocId(sectionId, lotId) {
   return `${AUCTION_ID}_${sectionId}_${lotId}`;
 }
 
@@ -238,7 +247,7 @@ async function addFavorite(sectionId, lotId) {
   const id = favDocId(sectionId, lotId);
   await setDoc(doc(db, "favorites", id), {
     auctionId: AUCTION_ID,
-    sectionId: sectionId,
+    sectionId: Number(sectionId),
     lotId: String(lotId),
     enteredMaxBid: null,
     updatedAt: serverTimestamp()
@@ -259,7 +268,7 @@ async function removeFavorite(sectionId, lotId) {
 }
 
 function startRealtimeFavorites() {
-  // If called again, stop the old listener first
+  // prevent duplicate listeners if called again
   if (typeof favoritesUnsub === "function") {
     favoritesUnsub();
     favoritesUnsub = null;
@@ -288,13 +297,6 @@ function startRealtimeFavorites() {
     }
   );
 }
-// Anyone can add/edit/remove items in any section.
-// ===============================
-const AUCTION_ID = "160623";
-
-// Live favorites from Firestore
-let sharedFavorites = [];
-let favoritesUnsub = null; // used to prevent duplicate listeners
 
 function renderAll(){
   renderFavorites();

@@ -1,7 +1,7 @@
 {
   "auction_id": "160623",
   "auction_name": "Memorial Day Estate Auction 2026",
-  "last_updated": "2026-05-26 08:32:08",
+  "last_updated": "2026-05-26 13:52:59",
   "total_lots": 632,
   "lots": [
     {
@@ -127,7 +127,7 @@
     {
       "lot": "6225",
       "name": "Vintage Curtis Jere \"Bandstand\" Mixed Metal Wall Sculpture",
-      "current_bid": 45.0,
+      "current_bid": 55.0,
       "estimated_value": 450.0,
       "personal_max_bid": 305.0,
       "resell_max_bid": 197.0,
@@ -247,7 +247,7 @@
     {
       "lot": "50059",
       "name": "Vintage Starck for Kartell - Dr. Na Bistro Table and Dr. No Armchairs",
-      "current_bid": 135.0,
+      "current_bid": 195.0,
       "estimated_value": 350.0,
       "personal_max_bid": 235.0,
       "resell_max_bid": 150.0,
@@ -355,7 +355,7 @@
     {
       "lot": "6092",
       "name": "Harley-Davidson Accessories - Hitch Cover/Derby Covers/Horn Cover/Medallions + Watch",
-      "current_bid": 271.0,
+      "current_bid": 281.0,
       "estimated_value": 300.0,
       "personal_max_bid": 47.0,
       "resell_max_bid": 31.0,
@@ -367,7 +367,7 @@
     {
       "lot": "50073",
       "name": "Antique Carters of London Adjustable Reading Easel/ Bedside Table",
-      "current_bid": 36.0,
+      "current_bid": 66.0,
       "estimated_value": 280.0,
       "personal_max_bid": 190.0,
       "resell_max_bid": 123.0,
@@ -427,7 +427,7 @@
     {
       "lot": "6377",
       "name": "ADCOM GFA-545 II Stereo Power Amplifier Pro Audio Music Recording",
-      "current_bid": 75.0,
+      "current_bid": 80.0,
       "estimated_value": 250.0,
       "personal_max_bid": 169.0,
       "resell_max_bid": 110.0,
@@ -463,7 +463,7 @@
     {
       "lot": "6608",
       "name": "Vintage Sterling Silver Vanity Set",
-      "current_bid": 250.0,
+      "current_bid": 280.0,
       "estimated_value": 225.0,
       "personal_max_bid": 120.0,
       "resell_max_bid": 95.0,
@@ -475,7 +475,7 @@
     {
       "lot": "6390",
       "name": "Alesis Masterlink High-Resolution Master Disk Recorder model ML-9600",
-      "current_bid": 4.0,
+      "current_bid": 6.0,
       "estimated_value": 225.0,
       "personal_max_bid": 61.0,
       "resell_max_bid": 39.0,
@@ -499,7 +499,7 @@
     {
       "lot": "6375",
       "name": "Audio-Technica AT4040 Microphone Pro Audio Music Recording",
-      "current_bid": 70.0,
+      "current_bid": 75.0,
       "estimated_value": 220.0,
       "personal_max_bid": 149.0,
       "resell_max_bid": 96.0,
@@ -511,7 +511,7 @@
     {
       "lot": "6406",
       "name": "Audio-Technica Microphone model AT4041 Pro Audio Music Recording",
-      "current_bid": 50.0,
+      "current_bid": 86.0,
       "estimated_value": 220.0,
       "personal_max_bid": 149.0,
       "resell_max_bid": 96.0,
@@ -523,7 +523,7 @@
     {
       "lot": "6407",
       "name": "Audio-Technica Microphone model AT4041 Pro Audio Music Recording",
-      "current_bid": 55.0,
+      "current_bid": 60.0,
       "estimated_value": 220.0,
       "personal_max_bid": 149.0,
       "resell_max_bid": 96.0,
@@ -559,7 +559,7 @@
     {
       "lot": "6444",
       "name": "Edgar Box (Gore Vidal) - \"Death Likes it Hot\" First Edition Book w/ Dust Jacket",
-      "current_bid": 19.0,
+      "current_bid": 24.0,
       "estimated_value": 200.0,
       "personal_max_bid": 135.0,
       "resell_max_bid": 90.0,
@@ -655,7 +655,7 @@
     {
       "lot": "6086",
       "name": "MCM CatherineHolm Norway Lotus Enamel Dutch Ovens",
-      "current_bid": 75.0,
+      "current_bid": 85.0,
       "estimated_value": 180.0,
       "personal_max_bid": 122.0,
       "resell_max_bid": 79.0,
@@ -679,7 +679,7 @@
     {
       "lot": "6518",
       "name": "Vitamix Professional Series 500 Mixer",
-      "current_bid": 100.0,
+      "current_bid": 145.0,
       "estimated_value": 180.0,
       "personal_max_bid": 122.0,
       "resell_max_bid": 79.0,
@@ -775,7 +775,7 @@
     {
       "lot": "6376",
       "name": "Microphones: IK Multimedia + Audio-Technica AT2020 + Behringer + Audix 5 + Stands",
-      "current_bid": 40.0,
+      "current_bid": 70.0,
       "estimated_value": 175.0,
       "personal_max_bid": 61.0,
       "resell_max_bid": 39.0,
@@ -811,7 +811,7 @@
     {
       "lot": "6501",
       "name": "Art Books - Audubon - Van Gogh - Picasso + Chagall + Degas + more",
-      "current_bid": 5.0,
+      "current_bid": 7.0,
       "estimated_value": 160.0,
       "personal_max_bid": 110.0,
       "resell_max_bid": 65.0,
@@ -1003,7 +1003,7 @@
     {
       "lot": "6538",
       "name": "All Clad Stainless Steel Roasting Pan",
-      "current_bid": 56.0,
+      "current_bid": 61.0,
       "estimated_value": 120.0,
       "personal_max_bid": 81.0,
       "resell_max_bid": 53.0,
@@ -1063,7 +1063,7 @@
     {
       "lot": "50017",
       "name": "Original Abstract Art Painting on Drywall Unsigned",
-      "current_bid": 80.0,
+      "current_bid": 90.0,
       "estimated_value": 120.0,
       "personal_max_bid": 81.0,
       "resell_max_bid": 53.0,
@@ -1147,7 +1147,7 @@
     {
       "lot": "6357",
       "name": "Boss RC-3 Loop Station Guitar Pedal Pro Audio Music",
-      "current_bid": 26.0,
+      "current_bid": 36.0,
       "estimated_value": 110.0,
       "personal_max_bid": 75.0,
       "resell_max_bid": 48.0,
@@ -1207,7 +1207,7 @@
     {
       "lot": "6101",
       "name": "Vintage Metal Tonka Toy Trucks",
-      "current_bid": 51.0,
+      "current_bid": 56.0,
       "estimated_value": 100.0,
       "personal_max_bid": 68.0,
       "resell_max_bid": 44.0,
@@ -1231,7 +1231,7 @@
     {
       "lot": "6187",
       "name": "Vintage Fur Coat - Serottas of Raleigh",
-      "current_bid": 9.0,
+      "current_bid": 12.0,
       "estimated_value": 100.0,
       "personal_max_bid": 68.0,
       "resell_max_bid": 44.0,
@@ -1267,7 +1267,7 @@
     {
       "lot": "6287",
       "name": "William Nelson Signed - The Audition - Lithograph Art Print with COA",
-      "current_bid": 4.0,
+      "current_bid": 5.0,
       "estimated_value": 100.0,
       "personal_max_bid": 68.0,
       "resell_max_bid": 44.0,
@@ -1279,7 +1279,7 @@
     {
       "lot": "6288",
       "name": "Salvador Dali - Delinean Horses - Facsimile Signed + Numbered Lithograph Art with COA",
-      "current_bid": 55.0,
+      "current_bid": 60.0,
       "estimated_value": 100.0,
       "personal_max_bid": 68.0,
       "resell_max_bid": 44.0,
@@ -1291,7 +1291,7 @@
     {
       "lot": "6293",
       "name": "Kerfily Signed - Mykonos II - Art Print with COA",
-      "current_bid": 9.0,
+      "current_bid": 10.0,
       "estimated_value": 100.0,
       "personal_max_bid": 68.0,
       "resell_max_bid": 44.0,
@@ -1351,7 +1351,7 @@
     {
       "lot": "6417",
       "name": "Vintage Ladies Fur Stole + Coats For Repurposing",
-      "current_bid": 1.0,
+      "current_bid": 2.0,
       "estimated_value": 100.0,
       "personal_max_bid": 68.0,
       "resell_max_bid": 44.0,
@@ -1363,7 +1363,7 @@
     {
       "lot": "6480",
       "name": "Vintage Womens Belk's French Room Fur Cape Coat",
-      "current_bid": 56.0,
+      "current_bid": 61.0,
       "estimated_value": 100.0,
       "personal_max_bid": 68.0,
       "resell_max_bid": 44.0,
@@ -1483,7 +1483,7 @@
     {
       "lot": "6320",
       "name": "Technics SL-QX300 Turntable Record Player System",
-      "current_bid": 90.0,
+      "current_bid": 100.0,
       "estimated_value": 90.0,
       "personal_max_bid": 61.0,
       "resell_max_bid": 39.0,
@@ -1507,7 +1507,7 @@
     {
       "lot": "6343",
       "name": "Electar Professional PBX-1000 Guitar Pedalboard Pro Audio Music",
-      "current_bid": 9.0,
+      "current_bid": 16.0,
       "estimated_value": 90.0,
       "personal_max_bid": 61.0,
       "resell_max_bid": 39.0,
@@ -1579,7 +1579,7 @@
     {
       "lot": "6356",
       "name": "Boss TU-2 Chromatic Tuner Guitar Pedal Pro Audio Music",
-      "current_bid": 50.0,
+      "current_bid": 70.0,
       "estimated_value": 90.0,
       "personal_max_bid": 61.0,
       "resell_max_bid": 39.0,
@@ -1663,7 +1663,7 @@
     {
       "lot": "6372",
       "name": "PPA R-One Microphone w/ bag + stand Pro Audio",
-      "current_bid": 31.0,
+      "current_bid": 36.0,
       "estimated_value": 90.0,
       "personal_max_bid": 61.0,
       "resell_max_bid": 39.0,
@@ -1675,7 +1675,7 @@
     {
       "lot": "6373",
       "name": "2 Shure Beta 58A Mics + Shure SM57 Mic Pro Audio Microphones",
-      "current_bid": 96.0,
+      "current_bid": 101.0,
       "estimated_value": 90.0,
       "personal_max_bid": 61.0,
       "resell_max_bid": 39.0,
@@ -1687,7 +1687,7 @@
     {
       "lot": "6374",
       "name": "Audio-Technica ATM 25 Microphone Pro Audio",
-      "current_bid": 55.0,
+      "current_bid": 60.0,
       "estimated_value": 90.0,
       "personal_max_bid": 61.0,
       "resell_max_bid": 39.0,
@@ -1747,7 +1747,7 @@
     {
       "lot": "6391",
       "name": "Furman Merit Series Power Conditioner model M-8x2 Pro Audio",
-      "current_bid": 26.0,
+      "current_bid": 55.0,
       "estimated_value": 90.0,
       "personal_max_bid": 61.0,
       "resell_max_bid": 39.0,
@@ -1759,7 +1759,7 @@
     {
       "lot": "6393",
       "name": "Furman PL-Plus Power Conditioner and Light Module Pro Audio",
-      "current_bid": 19.0,
+      "current_bid": 35.0,
       "estimated_value": 90.0,
       "personal_max_bid": 61.0,
       "resell_max_bid": 39.0,
@@ -1855,7 +1855,7 @@
     {
       "lot": "6534",
       "name": "All Clad Stainless Steel Stock Pot - 11 in",
-      "current_bid": 61.0,
+      "current_bid": 66.0,
       "estimated_value": 90.0,
       "personal_max_bid": 61.0,
       "resell_max_bid": 39.0,
@@ -1927,7 +1927,7 @@
     {
       "lot": "6386",
       "name": "Furman Power Conditioner & Light Module Model RPL-8L Pro Audio",
-      "current_bid": 22.0,
+      "current_bid": 24.0,
       "estimated_value": 90.0,
       "personal_max_bid": 61.0,
       "resell_max_bid": 39.0,
@@ -2095,7 +2095,7 @@
     {
       "lot": "5252",
       "name": "Wall Hanging Magnetic Garage Tool Storage Panels",
-      "current_bid": 22.0,
+      "current_bid": 40.0,
       "estimated_value": 75.0,
       "personal_max_bid": 51.0,
       "resell_max_bid": 33.0,
@@ -2119,7 +2119,7 @@
     {
       "lot": "6090",
       "name": "Abstract Art Pottery Table Lamp",
-      "current_bid": 4.0,
+      "current_bid": 5.0,
       "estimated_value": 75.0,
       "personal_max_bid": 51.0,
       "resell_max_bid": 33.0,
@@ -2179,7 +2179,7 @@
     {
       "lot": "6297",
       "name": "Salvador Dali - Ghost of Vermeer Reproduction Art Print",
-      "current_bid": 6.0,
+      "current_bid": 7.0,
       "estimated_value": 75.0,
       "personal_max_bid": 51.0,
       "resell_max_bid": 33.0,
@@ -2239,7 +2239,7 @@
     {
       "lot": "6438",
       "name": "Vintage Books for Shelf Styling",
-      "current_bid": 7.0,
+      "current_bid": 14.0,
       "estimated_value": 75.0,
       "personal_max_bid": 51.0,
       "resell_max_bid": 33.0,
@@ -2311,7 +2311,7 @@
     {
       "lot": "6546",
       "name": "Coffee Table Art Books - Picasso/Couture/20th Century American/William Morris Glass",
-      "current_bid": 10.0,
+      "current_bid": 12.0,
       "estimated_value": 75.0,
       "personal_max_bid": 51.0,
       "resell_max_bid": 33.0,
@@ -2323,7 +2323,7 @@
     {
       "lot": "6574",
       "name": "5 Legged Asian Wooden Stool",
-      "current_bid": 7.0,
+      "current_bid": 40.0,
       "estimated_value": 75.0,
       "personal_max_bid": 51.0,
       "resell_max_bid": 33.0,
@@ -2347,7 +2347,7 @@
     {
       "lot": "6576",
       "name": "Vintage Bamboo Rattan Side Table w/Magazine Rack",
-      "current_bid": 22.0,
+      "current_bid": 24.0,
       "estimated_value": 75.0,
       "personal_max_bid": 51.0,
       "resell_max_bid": 33.0,
@@ -2371,7 +2371,7 @@
     {
       "lot": "6592",
       "name": "Peephole Stool",
-      "current_bid": 30.0,
+      "current_bid": 40.0,
       "estimated_value": 75.0,
       "personal_max_bid": 51.0,
       "resell_max_bid": 33.0,
@@ -2419,7 +2419,7 @@
     {
       "lot": "50010",
       "name": "Regency Mahogany Drop Leaf Table w/ Paw Feet",
-      "current_bid": 56.0,
+      "current_bid": 61.0,
       "estimated_value": 75.0,
       "personal_max_bid": 51.0,
       "resell_max_bid": 33.0,
@@ -2467,7 +2467,7 @@
     {
       "lot": "50041",
       "name": "Two Tier Oval Tray Table",
-      "current_bid": 71.0,
+      "current_bid": 76.0,
       "estimated_value": 75.0,
       "personal_max_bid": 51.0,
       "resell_max_bid": 33.0,
@@ -2515,7 +2515,7 @@
     {
       "lot": "50048",
       "name": "Small Metal Rolling Storage Rack",
-      "current_bid": 16.0,
+      "current_bid": 18.0,
       "estimated_value": 75.0,
       "personal_max_bid": 51.0,
       "resell_max_bid": 33.0,
@@ -2563,7 +2563,7 @@
     {
       "lot": "50052",
       "name": "Metal Metro Storage Rack",
-      "current_bid": 26.0,
+      "current_bid": 31.0,
       "estimated_value": 75.0,
       "personal_max_bid": 51.0,
       "resell_max_bid": 33.0,
@@ -2623,7 +2623,7 @@
     {
       "lot": "50061",
       "name": "Werner M1-6-12 Aluminum Stepladder",
-      "current_bid": 6.0,
+      "current_bid": 7.0,
       "estimated_value": 75.0,
       "personal_max_bid": 51.0,
       "resell_max_bid": 33.0,
@@ -2635,7 +2635,7 @@
     {
       "lot": "50062",
       "name": "Handmade Live Edge Bench / Side Table",
-      "current_bid": 26.0,
+      "current_bid": 31.0,
       "estimated_value": 75.0,
       "personal_max_bid": 51.0,
       "resell_max_bid": 33.0,
@@ -2707,7 +2707,7 @@
     {
       "lot": "50075",
       "name": "Antique Marble Top Table",
-      "current_bid": 31.0,
+      "current_bid": 45.0,
       "estimated_value": 75.0,
       "personal_max_bid": 51.0,
       "resell_max_bid": 33.0,
@@ -2767,7 +2767,7 @@
     {
       "lot": "6515",
       "name": "Sol LeWitt Yarmulke Leather Kippah - 7th edition",
-      "current_bid": 18.0,
+      "current_bid": 65.0,
       "estimated_value": 75.0,
       "personal_max_bid": 48.0,
       "resell_max_bid": 28.0,
@@ -2791,7 +2791,7 @@
     {
       "lot": "5254",
       "name": "Harley Davidson Women's Helmet + SAC sissy bar hanging bag + Motorcycle Cover",
-      "current_bid": 18.0,
+      "current_bid": 22.0,
       "estimated_value": 70.0,
       "personal_max_bid": 47.0,
       "resell_max_bid": 31.0,
@@ -2803,7 +2803,7 @@
     {
       "lot": "6066",
       "name": "Harley Davidson Bar & Shield Touring Saddlebags",
-      "current_bid": 16.0,
+      "current_bid": 18.0,
       "estimated_value": 70.0,
       "personal_max_bid": 47.0,
       "resell_max_bid": 31.0,
@@ -2815,7 +2815,7 @@
     {
       "lot": "6070",
       "name": "Vintage Danilo Zanella Signed - Italian Artist - Murano Art Glass Tall Vase",
-      "current_bid": 4.0,
+      "current_bid": 16.0,
       "estimated_value": 70.0,
       "personal_max_bid": 47.0,
       "resell_max_bid": 31.0,
@@ -2827,7 +2827,7 @@
     {
       "lot": "6072",
       "name": "Harley Davidson Softail 100th Anniv Tank Panel - Fat Boy",
-      "current_bid": 46.0,
+      "current_bid": 51.0,
       "estimated_value": 70.0,
       "personal_max_bid": 47.0,
       "resell_max_bid": 31.0,
@@ -2839,7 +2839,7 @@
     {
       "lot": "6073",
       "name": "Harley Davidson Softail 100th Anniv Tank Panel - Plain",
-      "current_bid": 66.0,
+      "current_bid": 71.0,
       "estimated_value": 70.0,
       "personal_max_bid": 47.0,
       "resell_max_bid": 31.0,
@@ -2887,7 +2887,7 @@
     {
       "lot": "6077",
       "name": "Harley Davidson Road King Classic Leather Rear Tour Pak",
-      "current_bid": 16.0,
+      "current_bid": 20.0,
       "estimated_value": 70.0,
       "personal_max_bid": 47.0,
       "resell_max_bid": 31.0,
@@ -2899,7 +2899,7 @@
     {
       "lot": "6079",
       "name": "Harley Davidson Die Cast Motorcycles - Fat Boy/Road King Classic + More",
-      "current_bid": 22.0,
+      "current_bid": 26.0,
       "estimated_value": 70.0,
       "personal_max_bid": 47.0,
       "resell_max_bid": 31.0,
@@ -2911,7 +2911,7 @@
     {
       "lot": "6080",
       "name": "Harley Davidson Road King Pair Hard Leather Saddlebag Baskets",
-      "current_bid": 7.0,
+      "current_bid": 16.0,
       "estimated_value": 70.0,
       "personal_max_bid": 47.0,
       "resell_max_bid": 31.0,
@@ -2959,7 +2959,7 @@
     {
       "lot": "6097",
       "name": "Harley Davidson 95th Anniv. Passenger Backrest Pad",
-      "current_bid": 6.0,
+      "current_bid": 17.0,
       "estimated_value": 70.0,
       "personal_max_bid": 47.0,
       "resell_max_bid": 31.0,
@@ -2971,7 +2971,7 @@
     {
       "lot": "6098",
       "name": "Harley Davidson 100th Anniv. Leather Windshield Bag",
-      "current_bid": 9.0,
+      "current_bid": 10.0,
       "estimated_value": 70.0,
       "personal_max_bid": 47.0,
       "resell_max_bid": 31.0,
@@ -3139,7 +3139,7 @@
     {
       "lot": "6153",
       "name": "Harley Davidson 2004 Collectible Tank Set Wall Art",
-      "current_bid": 9.0,
+      "current_bid": 15.0,
       "estimated_value": 70.0,
       "personal_max_bid": 47.0,
       "resell_max_bid": 31.0,
@@ -3199,7 +3199,7 @@
     {
       "lot": "6160",
       "name": "Harley Davidson Archives - 1933 74 Big Twin Model Art Print",
-      "current_bid": 4.0,
+      "current_bid": 6.0,
       "estimated_value": 70.0,
       "personal_max_bid": 47.0,
       "resell_max_bid": 31.0,
@@ -3223,7 +3223,7 @@
     {
       "lot": "6165",
       "name": "Portmeirion Botanic Garden Serving Bowls + Cheese Board + Casserole Dish",
-      "current_bid": 24.0,
+      "current_bid": 30.0,
       "estimated_value": 70.0,
       "personal_max_bid": 47.0,
       "resell_max_bid": 31.0,
@@ -3247,7 +3247,7 @@
     {
       "lot": "6167",
       "name": "Portmeirion Botanic Garden Serving Platters + Butter Dish + Etc",
-      "current_bid": 46.0,
+      "current_bid": 51.0,
       "estimated_value": 70.0,
       "personal_max_bid": 47.0,
       "resell_max_bid": 31.0,
@@ -3259,7 +3259,7 @@
     {
       "lot": "6168",
       "name": "Portmeirion Botanic Garden Tea Coffee Cups + Vase + Etc",
-      "current_bid": 20.0,
+      "current_bid": 22.0,
       "estimated_value": 70.0,
       "personal_max_bid": 47.0,
       "resell_max_bid": 31.0,
@@ -3331,7 +3331,7 @@
     {
       "lot": "6186",
       "name": "Portmeirion Botanic Garden Water Jug + Coffee Cups",
-      "current_bid": 12.0,
+      "current_bid": 14.0,
       "estimated_value": 70.0,
       "personal_max_bid": 47.0,
       "resell_max_bid": 31.0,
@@ -3343,7 +3343,7 @@
     {
       "lot": "6189",
       "name": "Portmeirion Botanic Garden Crocus Snowdrop Planter",
-      "current_bid": 20.0,
+      "current_bid": 22.0,
       "estimated_value": 70.0,
       "personal_max_bid": 47.0,
       "resell_max_bid": 31.0,
@@ -3355,7 +3355,7 @@
     {
       "lot": "6190",
       "name": "Portmeirion Botanic Garden Lidded Canisters",
-      "current_bid": 31.0,
+      "current_bid": 36.0,
       "estimated_value": 70.0,
       "personal_max_bid": 47.0,
       "resell_max_bid": 31.0,
@@ -3475,7 +3475,7 @@
     {
       "lot": "6558",
       "name": "Danish Scanpan Nonstick Roasting Pan",
-      "current_bid": 14.0,
+      "current_bid": 16.0,
       "estimated_value": 70.0,
       "personal_max_bid": 47.0,
       "resell_max_bid": 31.0,
@@ -3487,7 +3487,7 @@
     {
       "lot": "6559",
       "name": "Danish Scanpan Nonstick Roasting Pan",
-      "current_bid": 4.0,
+      "current_bid": 16.0,
       "estimated_value": 70.0,
       "personal_max_bid": 47.0,
       "resell_max_bid": 31.0,
@@ -3619,7 +3619,7 @@
     {
       "lot": "6140",
       "name": "Navajo Carved Shell Turquoise Duck Fetish Necklace + Earrings",
-      "current_bid": 26.0,
+      "current_bid": 31.0,
       "estimated_value": 65.0,
       "personal_max_bid": 44.0,
       "resell_max_bid": 28.0,
@@ -3715,7 +3715,7 @@
     {
       "lot": "6284",
       "name": "Vintage Silverplate Enameled Bowls + Sasaki Bowl",
-      "current_bid": 18.0,
+      "current_bid": 24.0,
       "estimated_value": 65.0,
       "personal_max_bid": 44.0,
       "resell_max_bid": 28.0,
@@ -3859,7 +3859,7 @@
     {
       "lot": "6159",
       "name": "Large Abstract Oil on Canvas Art Painting - Signed",
-      "current_bid": 40.0,
+      "current_bid": 173.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -3895,7 +3895,7 @@
     {
       "lot": "6173",
       "name": "Sue Wickison 38/500 Signed Botanical Art Print + Cicada 12/30 Ltd Ed Art Print",
-      "current_bid": 51.0,
+      "current_bid": 56.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4003,7 +4003,7 @@
     {
       "lot": "6237",
       "name": "Jack Louis Amoroso Harbor Scene Art Print",
-      "current_bid": 4.0,
+      "current_bid": 5.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4039,7 +4039,7 @@
     {
       "lot": "6248",
       "name": "Jim Campbell - Questions and Answers - Mother + Child Art Lithograph",
-      "current_bid": 20.0,
+      "current_bid": 22.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4063,7 +4063,7 @@
     {
       "lot": "6251",
       "name": "Johann Christoph Volckamer Botanical Citrus Art Prints",
-      "current_bid": 14.0,
+      "current_bid": 16.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4075,7 +4075,7 @@
     {
       "lot": "6252",
       "name": "Johann Christoph Volckamer Botanical Peach Art Prints",
-      "current_bid": 23.0,
+      "current_bid": 25.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4087,7 +4087,7 @@
     {
       "lot": "6261",
       "name": "Dirty Dogs of Paris Art Prints - B Farley Signed",
-      "current_bid": 36.0,
+      "current_bid": 41.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4099,7 +4099,7 @@
     {
       "lot": "6262",
       "name": "Vintage Japanese Woodblock Art Prints",
-      "current_bid": 8.0,
+      "current_bid": 32.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4147,7 +4147,7 @@
     {
       "lot": "6267",
       "name": "Mountain Landscape - Ken Davidson Watercolor Art",
-      "current_bid": 5.0,
+      "current_bid": 6.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4171,7 +4171,7 @@
     {
       "lot": "6269",
       "name": "Trio Japanese Art Prints",
-      "current_bid": 5.0,
+      "current_bid": 6.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4231,7 +4231,7 @@
     {
       "lot": "6275",
       "name": "Abstract Faces - Artist Signed Pottery Vase",
-      "current_bid": 7.0,
+      "current_bid": 30.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4267,7 +4267,7 @@
     {
       "lot": "6283",
       "name": "Hand Blown Glass Wine Decanters + Copper & Brass Pitcher + The Little Owl Art Print",
-      "current_bid": 4.0,
+      "current_bid": 14.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4279,7 +4279,7 @@
     {
       "lot": "6289",
       "name": "Edna Hibel Signed- Majesty at the Taj Mahal - Art Print",
-      "current_bid": 1.0,
+      "current_bid": 2.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4291,7 +4291,7 @@
     {
       "lot": "6290",
       "name": "Henri Matisse - The Dessert: Harmony in Red - Reproduction Art Print",
-      "current_bid": 18.0,
+      "current_bid": 20.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4303,7 +4303,7 @@
     {
       "lot": "6291",
       "name": "Edna Hibel Signed - Heddi - Art Print",
-      "current_bid": 6.0,
+      "current_bid": 18.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4327,7 +4327,7 @@
     {
       "lot": "6294",
       "name": "Edna Hibel Signed - Victoria - Art Print",
-      "current_bid": 5.0,
+      "current_bid": 6.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4339,7 +4339,7 @@
     {
       "lot": "6295",
       "name": "Vintage Japanese Woodblock Art Print",
-      "current_bid": 6.0,
+      "current_bid": 7.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4351,7 +4351,7 @@
     {
       "lot": "6298",
       "name": "Pair of Artist Signed Abstract Paintings",
-      "current_bid": 14.0,
+      "current_bid": 31.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4363,7 +4363,7 @@
     {
       "lot": "6301",
       "name": "Edna Hibel Signed Portrait - Beth - Art Lithograph",
-      "current_bid": 6.0,
+      "current_bid": 7.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4375,7 +4375,7 @@
     {
       "lot": "6302",
       "name": "Japanese Woodblock Art Print",
-      "current_bid": 19.0,
+      "current_bid": 21.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4387,7 +4387,7 @@
     {
       "lot": "6303",
       "name": "M. Nsubuga Signed African Paintings on Cloth Art",
-      "current_bid": 4.0,
+      "current_bid": 5.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4399,7 +4399,7 @@
     {
       "lot": "6304",
       "name": "Edna Hibel Signed - Juliet and Baby - Art Print",
-      "current_bid": 5.0,
+      "current_bid": 6.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4423,7 +4423,7 @@
     {
       "lot": "6306",
       "name": "Vintage Japanese Woodblock Art Prints",
-      "current_bid": 6.0,
+      "current_bid": 7.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4435,7 +4435,7 @@
     {
       "lot": "6307",
       "name": "Edna Hibel Signed Portrait - Jan - Brown Conte Art Sketch on Wood",
-      "current_bid": 6.0,
+      "current_bid": 16.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4447,7 +4447,7 @@
     {
       "lot": "6308",
       "name": "Jacques Lalande Signed - The Dance - Lithograph Art Print",
-      "current_bid": 7.0,
+      "current_bid": 8.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4627,7 +4627,7 @@
     {
       "lot": "6469",
       "name": "Vintage 1960s Mattel Liddle Kiddles Dolls / Toys",
-      "current_bid": 47.0,
+      "current_bid": 57.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4663,7 +4663,7 @@
     {
       "lot": "6475",
       "name": "Jacqueline Clary Signed Art Landscape Painting - \"Breakfast in the Mist\"",
-      "current_bid": 23.0,
+      "current_bid": 25.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4735,7 +4735,7 @@
     {
       "lot": "6616",
       "name": "Signed Art Glass Pedestal Bowl",
-      "current_bid": 2.0,
+      "current_bid": 4.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4771,7 +4771,7 @@
     {
       "lot": "6633",
       "name": "Elizabeth Bradford (NC) 40/50 Signed Floral Art Print",
-      "current_bid": 6.0,
+      "current_bid": 19.0,
       "estimated_value": 60.0,
       "personal_max_bid": 41.0,
       "resell_max_bid": 26.0,
@@ -4843,7 +4843,7 @@
     {
       "lot": "6420",
       "name": "Vintage 1940s Art Deco Count-Rite Bakelite Poker Chip Caddy",
-      "current_bid": 26.0,
+      "current_bid": 31.0,
       "estimated_value": 55.0,
       "personal_max_bid": 40.0,
       "resell_max_bid": 24.0,
@@ -4879,7 +4879,7 @@
     {
       "lot": "6533",
       "name": "Faux Fur Women's Jackets - Hooded Reversible + Hooded Longer Style",
-      "current_bid": 22.0,
+      "current_bid": 24.0,
       "estimated_value": 50.0,
       "personal_max_bid": 34.0,
       "resell_max_bid": 22.0,
@@ -4915,7 +4915,7 @@
     {
       "lot": "6369",
       "name": "Digidesign Digi Rack digi002 Model MX002RK Pro Audio",
-      "current_bid": 5.0,
+      "current_bid": 6.0,
       "estimated_value": 45.0,
       "personal_max_bid": 61.0,
       "resell_max_bid": 39.0,
@@ -4951,7 +4951,7 @@
     {
       "lot": "1512",
       "name": "Large 5ft+ Vintage Metal \"LUNCH CANDY\" Sign",
-      "current_bid": 45.0,
+      "current_bid": 50.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -4999,7 +4999,7 @@
     {
       "lot": "6053",
       "name": "Modernist Figurative Wire Art Sculptures - Hat / Wig Stands",
-      "current_bid": 41.0,
+      "current_bid": 51.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5227,7 +5227,7 @@
     {
       "lot": "6222",
       "name": "Goray Douglas \"Tibetan Gypsy\" Signed Pastel Portrait Art + Framed Turquoise Earring",
-      "current_bid": 7.0,
+      "current_bid": 9.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5239,7 +5239,7 @@
     {
       "lot": "6223",
       "name": "Signed Studio Pottery Large Bowl / Planter",
-      "current_bid": 35.0,
+      "current_bid": 50.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5263,7 +5263,7 @@
     {
       "lot": "6238",
       "name": "Courtney Martin Stoneware Pottery Trays",
-      "current_bid": 14.0,
+      "current_bid": 16.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5275,7 +5275,7 @@
     {
       "lot": "6240",
       "name": "Vintage Charging Red Bull Sculpture",
-      "current_bid": 50.0,
+      "current_bid": 63.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5299,7 +5299,7 @@
     {
       "lot": "6257",
       "name": "Annie Leibovitz: Photographs 1970-1990 First Edition Collectible Book",
-      "current_bid": 18.0,
+      "current_bid": 31.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5311,7 +5311,7 @@
     {
       "lot": "6258",
       "name": "Brass Planter + Brass Tone Duck Bookends + Vietri Tile Art",
-      "current_bid": 36.0,
+      "current_bid": 41.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5335,7 +5335,7 @@
     {
       "lot": "6276",
       "name": "Antique Signed Stippled Art Engravings - Portrait of the Lady Buts + Portrait of John Poines",
-      "current_bid": 2.0,
+      "current_bid": 4.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5347,7 +5347,7 @@
     {
       "lot": "6277",
       "name": "Reut Shahar Signed Kakadu Bentwood Storage Bin",
-      "current_bid": 14.0,
+      "current_bid": 17.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5371,7 +5371,7 @@
     {
       "lot": "6285",
       "name": "Studio Pottery Vases + Bowl",
-      "current_bid": 16.0,
+      "current_bid": 45.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5395,7 +5395,7 @@
     {
       "lot": "6329",
       "name": "Studio Pottery - Bowl + Vases (Flower Frogs) + Raku + Owl / Squirrel Metal Etched Art",
-      "current_bid": 20.0,
+      "current_bid": 31.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5431,7 +5431,7 @@
     {
       "lot": "6350",
       "name": "Radial Engineering Trim-Two Passive Stereo Direct Box Input Pro Audio",
-      "current_bid": 40.0,
+      "current_bid": 45.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5443,7 +5443,7 @@
     {
       "lot": "6400",
       "name": "Neutrik Patch Bay NYS-SPP-L Pro Audio",
-      "current_bid": 6.0,
+      "current_bid": 7.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5527,7 +5527,7 @@
     {
       "lot": "6426",
       "name": "Vintage Chinese WBI Porcelain Bird Fish Bowl Planter",
-      "current_bid": 7.0,
+      "current_bid": 16.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5599,7 +5599,7 @@
     {
       "lot": "6479",
       "name": "Don Drumm Metal Christmas Tree Sculpture",
-      "current_bid": 25.0,
+      "current_bid": 31.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5623,7 +5623,7 @@
     {
       "lot": "6488",
       "name": "Art Glass Paperweights + Bowl",
-      "current_bid": 9.0,
+      "current_bid": 10.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5659,7 +5659,7 @@
     {
       "lot": "6494",
       "name": "Art Glass Vases + Lidded Apple Jar",
-      "current_bid": 6.0,
+      "current_bid": 8.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5707,7 +5707,7 @@
     {
       "lot": "6512",
       "name": "Nikki Klem Signed Bathtub Art Photograph",
-      "current_bid": 5.0,
+      "current_bid": 6.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5719,7 +5719,7 @@
     {
       "lot": "6525",
       "name": "Vintage Wall Pocket Vases - MCM Standford Set Boy Girl Sandy Jean + Bird Floral",
-      "current_bid": 24.0,
+      "current_bid": 26.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5767,7 +5767,7 @@
     {
       "lot": "6550",
       "name": "Duncan MacDiarmid Ceramic Face Tile Hook",
-      "current_bid": 9.0,
+      "current_bid": 10.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5779,7 +5779,7 @@
     {
       "lot": "6552",
       "name": "Studio Pottery Large Platter",
-      "current_bid": 14.0,
+      "current_bid": 19.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5791,7 +5791,7 @@
     {
       "lot": "6561",
       "name": "Bronze Two Lovers Sculptural Lamp",
-      "current_bid": 9.0,
+      "current_bid": 12.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5815,7 +5815,7 @@
     {
       "lot": "6564",
       "name": "Vintage Brass + Copper Cache Pots + Tinned Copper Bowl + Platter",
-      "current_bid": 6.0,
+      "current_bid": 7.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5839,7 +5839,7 @@
     {
       "lot": "6569",
       "name": "Vintage Hand Carved Large Wooden Dough Bowl + Artist Signed Wood Turned Cherry Platter",
-      "current_bid": 16.0,
+      "current_bid": 20.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5851,7 +5851,7 @@
     {
       "lot": "6578",
       "name": "Studio Pottery Serving Plate + Asian Bonsai Planter",
-      "current_bid": 5.0,
+      "current_bid": 7.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5923,7 +5923,7 @@
     {
       "lot": "6620",
       "name": "Deirdre Daw (American,1958-2024) Art Pottery Dish + Serving Bowl",
-      "current_bid": 3.0,
+      "current_bid": 4.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5935,7 +5935,7 @@
     {
       "lot": "6622",
       "name": "Artist Signed Studio Pottery Pieces - Janet Resnik - David Batz + More",
-      "current_bid": 50.0,
+      "current_bid": 55.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -5995,7 +5995,7 @@
     {
       "lot": "50043",
       "name": "XL Terracotta Urn Garden Planter",
-      "current_bid": 85.0,
+      "current_bid": 120.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -6019,7 +6019,7 @@
     {
       "lot": "50064",
       "name": "Classical Style Portrait Garden Bust in Cast Concrete",
-      "current_bid": 92.0,
+      "current_bid": 142.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -6031,7 +6031,7 @@
     {
       "lot": "50065",
       "name": "Classical Style Portrait Garden Bust in Cast Concrete",
-      "current_bid": 65.0,
+      "current_bid": 130.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -6043,7 +6043,7 @@
     {
       "lot": "50066",
       "name": "Metal Folk Art Bird Garden Sculpture",
-      "current_bid": 40.0,
+      "current_bid": 50.0,
       "estimated_value": 250.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -6067,7 +6067,7 @@
     {
       "lot": "50076",
       "name": "Yard Art Garden Cart",
-      "current_bid": 9.0,
+      "current_bid": 19.0,
       "estimated_value": 45.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 20.0,
@@ -6187,7 +6187,7 @@
     {
       "lot": "5253",
       "name": "Antique Arched Window Frames Architectural Salvage",
-      "current_bid": 31.0,
+      "current_bid": 36.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -6211,7 +6211,7 @@
     {
       "lot": "6059",
       "name": "Vintage Galvanized Metal Industrial Storage Bins",
-      "current_bid": 55.0,
+      "current_bid": 60.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -6235,7 +6235,7 @@
     {
       "lot": "6064",
       "name": "Large Wooden Abacus",
-      "current_bid": 6.0,
+      "current_bid": 7.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -6271,7 +6271,7 @@
     {
       "lot": "6069",
       "name": "Vintage Boraxo Wall - Mounted Soap Dispenser",
-      "current_bid": 1.0,
+      "current_bid": 4.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -6283,7 +6283,7 @@
     {
       "lot": "6071",
       "name": "Poly Tarps - Roughneck Extreme Duty + Black Mesh Shade Tarp",
-      "current_bid": 26.0,
+      "current_bid": 31.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -6499,7 +6499,7 @@
     {
       "lot": "6200",
       "name": "Green Faux \"Malachite\" Octagonal Tray",
-      "current_bid": 16.0,
+      "current_bid": 18.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -6523,7 +6523,7 @@
     {
       "lot": "6216",
       "name": "Vintage Carved Stone and Resin Tree in Cloisonne Pot",
-      "current_bid": 30.0,
+      "current_bid": 35.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -6619,7 +6619,7 @@
     {
       "lot": "6246",
       "name": "Carved Stone Elephant Bookends",
-      "current_bid": 4.0,
+      "current_bid": 6.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -6631,7 +6631,7 @@
     {
       "lot": "6250",
       "name": "Vintage Chinese Porcelain Trinket Box",
-      "current_bid": 8.0,
+      "current_bid": 12.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -6643,7 +6643,7 @@
     {
       "lot": "6286",
       "name": "Vintage Books - Monet + Matisse + Japanese Myth + More",
-      "current_bid": 16.0,
+      "current_bid": 18.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -6739,7 +6739,7 @@
     {
       "lot": "6412",
       "name": "Guitar Strings: DAddario PRS John Pearse",
-      "current_bid": 18.0,
+      "current_bid": 22.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -6883,7 +6883,7 @@
     {
       "lot": "6446",
       "name": "Antique - Stoddard's Lectures - Half-Leather Bound Books",
-      "current_bid": 26.0,
+      "current_bid": 49.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -6919,7 +6919,7 @@
     {
       "lot": "6485",
       "name": "Vintage Sewing Notions + Wiss / Keen Edge Scissors + Buttons Etc",
-      "current_bid": 8.0,
+      "current_bid": 14.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -7003,7 +7003,7 @@
     {
       "lot": "6532",
       "name": "April Cornell Natural Treasure Trinket Boxes + Unmarked Tray",
-      "current_bid": 16.0,
+      "current_bid": 18.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -7027,7 +7027,7 @@
     {
       "lot": "6537",
       "name": "Colorful Floral Needlepoint Pillows",
-      "current_bid": 30.0,
+      "current_bid": 35.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -7087,7 +7087,7 @@
     {
       "lot": "6544",
       "name": "Vintage Sewing Caddy + Handkerchief Collection",
-      "current_bid": 56.0,
+      "current_bid": 61.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -7147,7 +7147,7 @@
     {
       "lot": "6557",
       "name": "Vintage Tray Chic by Cynthia Carey - Lacquered Wood",
-      "current_bid": 6.0,
+      "current_bid": 10.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -7219,7 +7219,7 @@
     {
       "lot": "6618",
       "name": "Jimmy Choo 3.3 oz Eau de Parfum Spray",
-      "current_bid": 4.0,
+      "current_bid": 6.0,
       "estimated_value": 35.0,
       "personal_max_bid": 22.0,
       "resell_max_bid": 12.0,
@@ -7231,7 +7231,7 @@
     {
       "lot": "6619",
       "name": "Mermaid Weather Vane - Wood + Metal",
-      "current_bid": 36.0,
+      "current_bid": 42.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -7351,7 +7351,7 @@
     {
       "lot": "50037",
       "name": "4 Metal Rolling Storage Organizer Carts",
-      "current_bid": 41.0,
+      "current_bid": 50.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -7363,7 +7363,7 @@
     {
       "lot": "50038",
       "name": "3 Metal Rolling Storage Organizer Carts",
-      "current_bid": 31.0,
+      "current_bid": 36.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -7387,7 +7387,7 @@
     {
       "lot": "50044",
       "name": "Antique Metal Standing Ashtray Smoking Stand",
-      "current_bid": 1.0,
+      "current_bid": 2.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -7399,7 +7399,7 @@
     {
       "lot": "50056",
       "name": "3 Foldable Wagon Trolleys Carts",
-      "current_bid": 6.0,
+      "current_bid": 18.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -7411,7 +7411,7 @@
     {
       "lot": "50070",
       "name": "Large Woven Hamper / Plant Basket",
-      "current_bid": 16.0,
+      "current_bid": 20.0,
       "estimated_value": 35.0,
       "personal_max_bid": 24.0,
       "resell_max_bid": 15.0,
@@ -7435,7 +7435,7 @@
     {
       "lot": "6486",
       "name": "Large Murano Glassware Art Glass Vase",
-      "current_bid": 6.0,
+      "current_bid": 8.0,
       "estimated_value": 30.0,
       "personal_max_bid": 30.0,
       "resell_max_bid": 30.0,
@@ -7471,7 +7471,7 @@
     {
       "lot": "6148",
       "name": "Costume Jewelry",
-      "current_bid": 45.0,
+      "current_bid": 50.0,
       "estimated_value": 30.0,
       "personal_max_bid": 20.0,
       "resell_max_bid": 13.0,
@@ -7483,7 +7483,7 @@
     {
       "lot": "6183",
       "name": "Vintage Costume Jewelry",
-      "current_bid": 14.0,
+      "current_bid": 18.0,
       "estimated_value": 30.0,
       "personal_max_bid": 20.0,
       "resell_max_bid": 13.0,
@@ -7495,7 +7495,7 @@
     {
       "lot": "6205",
       "name": "Costume Jewelry",
-      "current_bid": 31.0,
+      "current_bid": 41.0,
       "estimated_value": 30.0,
       "personal_max_bid": 20.0,
       "resell_max_bid": 13.0,
@@ -7531,7 +7531,7 @@
     {
       "lot": "6628",
       "name": "Paper Towels and Toilet Paper",
-      "current_bid": 132.0,
+      "current_bid": 152.0,
       "estimated_value": 25.0,
       "personal_max_bid": 17.0,
       "resell_max_bid": 11.0,
